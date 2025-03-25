@@ -46,3 +46,10 @@ ActiveMQServer server = ActiveMQServers.newActiveMQServer(
         .addAcceptorConfiguration("invm", "vm://0")
 );
 server.start();
+
+
+---
+
+Let me know if you want this in a downloadable `.md` file or if you plan to dockerize this setup – I can help with that too!
+
+
